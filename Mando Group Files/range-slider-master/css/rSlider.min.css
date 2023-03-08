@@ -44,7 +44,7 @@
     display:block}
 
 .rs-container .rs-scale span:last-child{
-    margin-left:-1px;width:0}
+    margin-left:-1px;position:absolute;width:0}
 
 .rs-container .rs-scale span ins{
     color:#333;display:inline-block;font-size:12px;margin-top:20px;text-decoration:none}
